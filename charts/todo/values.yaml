@@ -9,9 +9,9 @@ replicas:
   todoPostgres: 1
   todoProxy: 2
   todoRabbitmq: 1
-  todoRedis: 1
+  todoRedis: 2
   todoSearchIngestion: 1
   todoSearchService: 2
   todoStorageIngestion: 1
   todoStorageService: 2
-  todoView: 1
+  todoView: 2
