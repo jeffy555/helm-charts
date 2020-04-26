@@ -22,7 +22,7 @@ spec:
       - name: fix-permissions
         image: busybox
         command: ["sh", "-c", "chown -R 1000:1000 /usr/share/elasticsearch/data"]
-        securityConytext:
+        securityContext:
           privileged: true
         volumeMounts:
         - mountPath: /usr/share/elasticsearch/data
