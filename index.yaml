@@ -3,11 +3,11 @@ entries:
   todo:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-04-26T23:07:40.356189426Z
+    created: 2020-04-27T07:58:30.86172893Z
     description: A Helm chart for Todo
-    digest: 8dcc9315580ccec5260d61ace2235de4172691fd4a0bfb46eb9574f97ec43277
+    digest: c34895853dab77e7eb2bbd8ffee9b86cceec18c64a7442b407418daba4664d98
     name: todo
     urls:
     - https://jeffy555.github.io/helm-charts/todo-1.0.0.tgz
     version: 1.0.0
-generated: 2020-04-26T23:07:40.355165927Z
+generated: 2020-04-27T07:58:30.860397871Z
