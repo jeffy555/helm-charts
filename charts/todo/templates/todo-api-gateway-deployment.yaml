@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  namespace: {{ template "todo.fullname" . }}-todo
+  
   name: todo-api-gateway
   labels:
     todo-app-deployment: todo-api-gateway

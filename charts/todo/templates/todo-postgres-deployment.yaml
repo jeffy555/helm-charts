@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  namespace: {{ template "todo.fullname" . }}-todo
+  
   name: todo-postgres
   labels:
     todo-app-deployment: todo-postgres
